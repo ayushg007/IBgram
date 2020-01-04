@@ -21,7 +21,7 @@ gem 'uglifier', '>= 1.3.0'
 
 gem 'paperclip', github: 'thoughtbot/paperclip'
 gem 'simple_form'
-gem 'bootstrap-sass', '~> 3.3.5'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'will_paginate', '~> 3.1.1'
 gem 'will_paginate-bootstrap' 
 # Use CoffeeScript for .coffee assets and views
